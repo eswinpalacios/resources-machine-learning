@@ -9,3 +9,4 @@
 - [Coursera](https://es.coursera.org/learn/machine-learning)
 - [FAST](https://www.fast.ai/)
 - [SCIPY](https://www.scipy.org/)
+- [Kaggle](https://www.kaggle.com/)
