@@ -8,6 +8,7 @@
 - [Google](https://developers.google.com/machine-learning/crash-course/) 
 - [Google ia](https://ai.google/education/)
 - [Coursera](https://es.coursera.org/learn/machine-learning)
+- [Amazon](https://aws.amazon.com/es/machine-learning)
 - [FAST](https://www.fast.ai/)
 - [SCIPY](https://www.scipy.org/)
 - [Kaggle](https://www.kaggle.com/)
