@@ -11,8 +11,8 @@
 - [FAST](https://www.fast.ai/)
 - [SCIPY](https://www.scipy.org/)
 - [Kaggle](https://www.kaggle.com/)
-- [Udacity] (https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [fast ia] (http://course18.fast.ai/ml)
+- [Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [fast ia](http://course18.fast.ai/ml)
 
-- [list1] (https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html) 
-- [list2] (https://digitaldefynd.com/best-machine-learning-and-deep-learning-courses/)
+- [list1](https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html) 
+- [list2](https://digitaldefynd.com/best-machine-learning-and-deep-learning-courses/)
