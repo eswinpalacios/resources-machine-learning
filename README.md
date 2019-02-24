@@ -9,6 +9,7 @@
 - [Google ia](https://ai.google/education/)
 - [Coursera](https://es.coursera.org/learn/machine-learning)
 - [Amazon](https://aws.amazon.com/es/machine-learning)
+- [Amazon ML](https://aws.amazon.com/es/training/learning-paths/machine-learning/)
 - [FAST](https://www.fast.ai/)
 - [SCIPY](https://www.scipy.org/)
 - [Kaggle](https://www.kaggle.com/)
